@@ -1,0 +1,40 @@
+{
+  "site": {
+    "language": "en",
+    "theme": {
+      "primaryBackgroundColor": "white",
+      "primaryTextColor": "black",
+      "secondaryBackgroundColor": "#0098ff",
+      "secondaryTextColor": "white"
+    }
+  },
+  "page": {
+    "title": "Page title overview",
+    "description": "Page description"
+  },
+  "components": {
+    "SiteHeader": {
+      "logo": "https://www.osudio.com/hs-fs/hubfs/OSUDIO%20/osudio-black.png?width=260&name=osudio-black.png",
+      "logoLink": "https://www.osudio.com",
+      "textLink": "https://www.osudio.com",
+      "text": "To Osudio.com"
+    },
+    "Herotext": {
+      "title": "Private Shopping at Osudio",
+      "subtitle": "",
+      "image": "",
+      "body": "Book your Private Shopping moment and shop in complete safety. Book an appointment and come shopping before or after opening hours. We work with slots of 15 minutes, in which a limited number of people are always present in the store. you can easily keep your distance and enjoy Christmas shopping in a pleasant way. Moreover, with your Private Shopping visit you will receive a roll of gift-wrapping paper worth € 2 with a purchase from € 20. ",
+      "note": "We closely monitor the corona measures. If your chosen moment is not possible, we will always propose an alternative."
+    },
+    "Locations": {
+      "title": "Choose a location",
+      "pending": "Loading locations ...",
+      "error": "Unfortunately, something went wrong loading the locations of this store. Please try again."
+    },
+    "SiteFooter": {
+      "backtotopLabel": "Back to top",
+      "privacyLabel": "Privacy policy",
+      "privacyUrl": "https://www.osudio.com/en/privacy-policy"
+    }
+  }
+}

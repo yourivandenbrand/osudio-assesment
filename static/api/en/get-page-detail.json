@@ -1,0 +1,45 @@
+{
+  "site": {
+    "language": "en",
+    "theme": {
+      "primaryBackgroundColor": "white",
+      "primaryTextColor": "black",
+      "secondaryBackgroundColor": "#0098ff",
+      "secondaryTextColor": "white"
+    }
+  },
+  "page": {
+    "title": "Detail page title",
+    "description": "Detail page description"
+  },
+  "components": {
+    "SiteHeader": {
+      "logo": "https://www.osudio.com/hs-fs/hubfs/OSUDIO%20/osudio-black.png?width=260&name=osudio-black.png",
+      "logoLink": "https://www.osudio.com",
+      "textLink": "",
+      "text": "Choose another location"
+    },
+    "Herotext": {
+      "title": "Private Shopping at Osudio",
+      "subtitle": "Book now!",
+      "image": "https://www.osudio.com/hubfs/OSUDIO%20/4806_carlsberg.png",
+      "body": "Book your Private Shopping moment and shop in complete safety. Book an appointment and come shopping before or after opening hours. We work with slots of 15 minutes, in which a limited number of people are always present in the store. you can easily keep your distance and enjoy Christmas shopping in a pleasant way. Moreover, with your Private Shopping visit you will receive a roll of gift-wrapping paper worth € 2 with a purchase from € 20. ",
+      "note": "We closely monitor the corona measures. If your chosen moment is not possible, we will always propose an alternative."
+    },
+    "Booking": {
+      "title": "How it works",
+      "steps": [
+        "Choose a time slot for your Private Shopping moment. It is not possible to book for several people at the same time. Children under 12 can come without having to book them (maximum 2 children per booking).",
+        "Write down your details. We will only use them within the framework of this agreement.",
+        "Book your appointment. You will immediately receive a confirmation email.",
+        "Come to the store at the start of your appointment. At the entrance of the store, show your confirmation email (digital or printed) to enter.",
+        "Shop safely and don't forget your gift."
+      ]
+    },
+    "SiteFooter": {
+      "backtotopLabel": "Back to top",
+      "privacyLabel": "Privacy policy",
+      "privacyUrl": "https://www.osudio.com/en/privacy-policy"
+    }
+  }
+}

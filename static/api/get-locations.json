@@ -1,0 +1,17 @@
+[
+  {
+    "id": "amsterdam",
+    "title": "Amsterdam",
+    "subtitle": "De Ruijterkade 6H"
+  },
+  {
+    "id": "diepenbeek",
+    "title": "Diepenbeek",
+    "subtitle": "Wetenschapspark 24"
+  },
+  {
+    "id": "eindhoven",
+    "title": "Eindhoven",
+    "subtitle": "Luchthavenweg 18d"
+  }
+]

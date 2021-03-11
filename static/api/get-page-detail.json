@@ -1,0 +1,45 @@
+{
+  "site": {
+    "language": "nl",
+    "theme": {
+      "primaryBackgroundColor": "white",
+      "primaryTextColor": "black",
+      "secondaryBackgroundColor": "#0098ff",
+      "secondaryTextColor": "white"
+    }
+  },
+  "page": {
+    "title": "Detail pagina titel",
+    "description": "Detail pagina description"
+  },
+  "components": {
+    "SiteHeader": {
+      "logo": "https://www.osudio.com/hs-fs/hubfs/OSUDIO%20/osudio-black.png?width=260&name=osudio-black.png",
+      "logoLink": "https://www.osudio.com",
+      "textLink": "",
+      "text": "Kies een andere locatie"
+    },
+    "Herotext": {
+      "title": "Private Shopping bij Osudio",
+      "subtitle": "Boek nu!",
+      "image": "https://www.osudio.com/hubfs/OSUDIO%20/4806_carlsberg.png",
+      "body": "Boek jouw Private Shopping moment en winkel in alle veiligheid. Boek een afspraak en kom voor of na de openingsuren rustig shoppen. We werken met slots van 15 minuten, waarin telkens een beperkt aantal mensen aanwezig zijn in de winkel. Zo kan je makkelijk afstand houden en op een plezierige manier kerstshoppen. Bovendien krijg je bij je Private Shopping bezoek een rol cadeaupapier twv €2 bij aankoop vanaf €20.",
+      "note": "We volgen de corona-maatregelen op de voet. Als jouw gekozen moment toch niet zou kunnen, dan stellen we je steeds een alternatief voor."
+    },
+    "Booking": {
+      "title": "Hoe het werkt",
+      "steps": [
+        "Kies een tijdsvak voor jouw Private Shopping moment. Het is niet mogelijk om voor meerdere personen tegelijk te boeken. Kinderen onder 12 mogen meekomen zonder dat je hen moet inboeken (maximum 2 kinderen per boeking).",
+        "Noteer je gegevens. Deze gebruiken we enkel in het kader van deze afspraak.",
+        "Boek je afspraak. Je krijgt meteen een bevestigingsmail toegestuurd.",
+        "Kom naar de winkel aan het begin van jouw afspraak. Aan de ingang van de winkel toon je jouw bevestigingsmail (digitaal of afgedrukt) om binnen te mogen.",
+        "Shop in alle veiligheid en vergeet je cadeau niet."
+      ]
+    },
+    "SiteFooter": {
+      "backtotopLabel": "Terug naar boven",
+      "privacyLabel": "Privacy policy",
+      "privacyUrl": "https://www.osudio.com/en/privacy-policy"
+    }
+  }
+}
